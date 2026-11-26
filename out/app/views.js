@@ -458,7 +458,7 @@ export function renderDemographics() {
       </div>
       <div class="banner-badge">
         <strong>Total Population:</strong> 281.60 Million<br>
-        <strong>National HDI:</strong> 74.39 (High Category)
+        <strong>National HDI:</strong> 75.02 (High Category)
       </div>
     </div>
 
@@ -497,8 +497,8 @@ export function renderDemographics() {
               <tr>
                 <td><strong>Human Development Index (HDI)</strong></td>
                 <td>71.94</td>
-                <td>72.91</td>
-                <td><strong>74.39</strong></td>
+                <td>73.77</td>
+                <td><strong>75.02</strong></td>
                 <td><span class="badge-tag pos">High Status</span></td>
               </tr>
               <tr>

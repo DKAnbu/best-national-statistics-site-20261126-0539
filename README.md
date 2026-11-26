@@ -14,14 +14,14 @@ Official national statistical portal of the Republic of Indonesia. Features cert
 - **Zero Third-Party Call Policy:** All data, chart engines, styling, and typography run 100% locally from static vanilla ES modules.
 
 ### Key National Indicators (2024 Release)
-- **Nominal GDP:** Rp 21,950 Trillion (~$1.37 Trillion USD)
+- **Nominal GDP:** Rp 22,139 Trillion (~$1.40 Trillion USD)
 - **Real GDP Growth (Q3 2024):** 4.95% y-on-y
 - **Headline Inflation (CPI):** 1.71% y-on-y (October 2024)
 - **Total Population:** 281.60 Million (BPS Projections)
 - **Open Unemployment Rate:** 4.91% (August 2024)
 - **National Poverty Rate:** 9.03% (March 2024, lowest post-pandemic)
-- **Human Development Index (HDI):** 74.39 (High category)
-- **Trade Balance Surplus:** Cumulative $27.4 Billion (54 consecutive months of surplus)
+- **Human Development Index (HDI):** 75.02 (High category)
+- **Trade Balance Surplus:** Cumulative $24.43 Billion (54 consecutive months of surplus)
 - **Foreign Exchange Reserves:** $151.2 Billion (October 2024)
 
 ## Architecture
